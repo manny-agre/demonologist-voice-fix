@@ -107,7 +107,6 @@ A: The fixes are limited to Demonologist’s voice requirements. Other apps shou
 ## 📜 License
 
 - Free for personal use.  
-- Commercial use requires permission.  
 - Content creators, please give proper credit/link.
 
 ---
