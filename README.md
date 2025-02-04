@@ -115,7 +115,8 @@ A: The fixes are limited to Demonologist’s voice requirements. Other apps shou
 
 - LinkedIn: https://www.linkedin.com/in/manuel-aguirre-reyes/
 - IG: https://www.instagram.com/manny_agre/
-
+- Paypal: mannyagre@outlook.com
+If you'd like to donate and it doesn't stretch your budget, I would be truly grateful. However, please don't feel obligated. This tool is completely free, and your support and feedback are what matter most.
 ---
 
 ## Author Info
