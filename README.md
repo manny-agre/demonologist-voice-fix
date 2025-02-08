@@ -25,7 +25,7 @@ I’m not a Demonologist dev—just a regular player with 7+ years of Windows an
 ## How to Use (No Installation Needed)
 
 1. Join the Official Demonologist Discord https://discord.gg/clockwizardgames.
-2. Create a new post in the **bugs** channel and mention **@manny_agre**.
+2. Create a new post in the **tech-support** channel and mention **@manny_agre**.
 3. Wait for Manny to provide you with a password.
 4. Open PowerShell.
 5. Paste the Command and press Enter:
@@ -90,7 +90,7 @@ A: The fixes are limited to Demonologist’s voice requirements. Other apps shou
 ## Still Not Working?
 
 1. Join the Official Demonologist Discord.  
-2. Create a new post in the bugs channel.  
+2. Create a new post in the tech-support channel.  
 3. We’ll figure out a personalized fix.
 
 ---
