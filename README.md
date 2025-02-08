@@ -130,7 +130,7 @@ If you'd like to donate and it doesn't stretch your budget, I would be truly gra
 ## Special Thanks
 
 - **Valsis**: Thank you for your support and encouraging words, for allowing me to help people on the official Discord, and for providing a place to gather feedback that helps shape and improve this tool. Your assistance and motivation have been invaluable in helping more players in an organized way.
-- **Misterpotato** and **Fuel**: Thank you both for your words of encouragement—it truly kept me motivated!
+- **Mistarpotato** and **Fuel**: Thank you both for your words of encouragement—it truly kept me motivated!
 - **Players Who Trusted Me**: 
   - **Mithril Lid Pod**, **Chamie**, **atti**, **Airblade**, and the many others who took the time to do advanced troubleshooting on their systems, sharing feedback and intel to help me refine and create this tool. 
 - **Carlo and Lena**: Thank you for telling me how proud you are of the nerd I am! Los amo pendejos.
