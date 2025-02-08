@@ -18,7 +18,7 @@ This tool is in beta and aims to diagnose and fix voice chat connectivity proble
 - The mic icon never lights up  
 - Random connection errors keep showing up
 
-I’m not a Demonologist dev—just a regular player with 7+ years of Windows and PowerShell experience as an IT Infrastructure Manager. Seeing how many struggled, I put this together to help.
+I’m not a Demonologist dev—just a regular player with 7+ years of Advanced Windows and PowerShell experience as an IT Infrastructure Manager. Seeing how many struggled, I put this together to help.
 
 ---
 
