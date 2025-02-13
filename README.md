@@ -24,20 +24,14 @@ I’m not a Demonologist dev—just a regular player with 7+ years of Advanced W
 
 ## How to Use (No Installation Needed)
 
-1. Join the Official Demonologist Discord https://discord.gg/clockwizardgames.
-2. Create a new post in the **tech-support** channel and mention **@manny_agre**.
-3. Wait for Manny to provide you with a password.
-4. Open PowerShell.
-5. Paste the Command and press Enter:
+1. Open PowerShell.
+2. Paste the Command and press Enter:
    ```powershell
    irm demonologist.mannyagre.workers.dev | iex
-6. Type the password that Manny gave you.
-7. Open the game.
-8. Join a multiplayer lobby.
+3. Open the game.
+4. Join a multiplayer lobby.
 
 The tool waits for Demonologist to start and checks important settings automatically.
-
-Note: This password isn’t truly a password. It’s just a simple mechanism that can be bypassed by editing the code. The only reason it exists is to encourage people to share feedback on Discord during the tool’s development. Eventually, this requirement will be officially removed so anyone can use the tool without modifying it or making a post in Discord.
 
 ---
 
@@ -61,13 +55,6 @@ We just check if your game is actually connecting to Vivox servers.
 
 ---
 
-## Additional Features
-
-- Logs Everything to `demonologist.log` on your Desktop (please share the log on discord).  
-- Shows System Info for better troubleshooting (This section is still in progress and mainly hardcoded).
-
----
-
 ## Compatibility with Other Games
 
 It may help other titles using the same voice service, but it only officially supports Demonologist. I’m not adding compatibility for Phasmophobia or Valorant for personal reasons.
@@ -84,14 +71,6 @@ A: No, just once unless you change network hardware or revert the settings.
 
 **Q: Will it affect other games or apps?**  
 A: The fixes are limited to Demonologist’s voice requirements. Other apps shouldn’t be affected.
-
----
-
-## Still Not Working?
-
-1. Join the Official Demonologist Discord.  
-2. Create a new post in the tech-support channel.  
-3. We’ll figure out a personalized fix.
 
 ---
 
@@ -117,13 +96,14 @@ A: The fixes are limited to Demonologist’s voice requirements. Other apps shou
 - IG: https://www.instagram.com/manny_agre/
 - Paypal: mannyagre@outlook.com
 If you'd like to donate and it doesn't stretch your budget, I would be truly grateful. However, please don't feel obligated. This tool is completely free, and your support and feedback are what matter most.
+
 ---
 
 ## Author Info
 
 - Creator: manny_agre  
 - Created: 01/25/2025  
-- Last Modified: 02/03/2025  
+- Last Modified: 02/13/2025 
 
 ---
 
@@ -138,5 +118,7 @@ If you'd like to donate and it doesn't stretch your budget, I would be truly gra
 ---
 
 Enjoy your spooky adventures with a fully functional mic, happy ghost hunting!.
+
+For personal reasons, I have decided to step away from the tool, but its current state allows you to fix any network-related issues (excluding cases where your country's government has blocked the Vivox service, like in Egypt) so that your game's voice chat works smoothly. I originally planned to create a nice and user-friendly GUI or at least provide a more readable console output for non-technical users, but I don’t have the time, and there’s too much drama surrounding this. Feel free to do whatever you want with the tool—it's free and open source. Happy ghost hunting!
 
 Created with love by Manny
